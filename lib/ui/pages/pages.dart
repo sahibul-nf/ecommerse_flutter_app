@@ -1,0 +1,23 @@
+import 'dart:async';
+import 'package:avatar_glow/avatar_glow.dart';
+import 'package:ecommerse_flutter_app/ui/themes/themes.dart';
+import 'package:ecommerse_flutter_app/ui/widgets/widgets.dart';
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:line_icons/line_icons.dart';
+import 'package:custom_navigation_bar/custom_navigation_bar.dart';
+import 'package:unicons/unicons.dart';
+
+part 'splash_screen.dart';
+part 'main_page.dart';
+part 'home_page.dart';
+part 'checkout_page.dart';
+part 'cart_page.dart';
+part 'user_page.dart';
+part 'login_page.dart';
+part 'onboarding_page.dart';
+part 'register_page.dart';
+part 'started_page.dart';
+part 'product_detail_page.dart';
+part 'favorite_page.dart';
+part 'interest_page.dart';
